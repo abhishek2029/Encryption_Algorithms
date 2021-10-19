@@ -1,6 +1,6 @@
 # Encryption_Algorithms
 
-Impelemented few encryption algorithms in Java - 
+Implemented few encryption algorithms in Java - 
 
 1 - Advanced Encryption Algorithm (AES)
 
